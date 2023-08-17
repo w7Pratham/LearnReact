@@ -1,0 +1,20 @@
+app.html
+FullStack React.pdf
+
+# Ignore the contents of the T3React project folder
+T3React/node_modules
+T3React/.pnp
+T3React/.pnp.js
+T3React/coverage
+T3React/build
+T3React/.DS_Store
+T3React/.env.local
+T3React/.env.development.local
+T3React/.env.test.local
+T3React/.env.production.local
+T3React/npm-debug.log*
+T3React/yarn-debug.log*
+T3React/yarn-error.log*
+T3React/build
+
+# Add any other rules relevant to the main repository here
